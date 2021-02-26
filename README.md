@@ -1,7 +1,9 @@
 # CitiBike Analysis
 ### By Rodrigo Guarneros
 
-### This data analysis aims to answer the following questions, based on a 356,530 bycicling trips from december 2019 to 2020 in New York City. In this dashboard (https://public.tableau.com/shared/XK479TSDD?:display_count=n&:origin=viz_share_link) you are going to find the effects of COVID-19 in the use of this sort of transport and also you will know: 
+![1-Dashboard](https://github.com/RodGuarneros/bikesanalysis/blob/main/Guarneros1.png)
+
+This data analysis aims to answer the following questions, based on a 356,530 bicycling trips from december 2019 to 2020 in New York City. In this dashboard (https://public.tableau.com/shared/XK479TSDD?:display_count=n&:origin=viz_share_link) you are going to find the effects of COVID-19 in the use of this sort of transport and also you will know: 
 
 - How many trips have been recorded total during the chosen period?
 
@@ -32,5 +34,7 @@
 - Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 
 - How variable is the utilization by bike ID?
+
+![2-Dashboard](https://github.com/RodGuarneros/bikesanalysis/blob/main/Guarneros2.png)
 
 The dashboard contains at the end a dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
